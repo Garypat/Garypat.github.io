@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /favico.ioc
+
+Sitemap: https://garypat.github.io/sitemap.xml
